@@ -18,13 +18,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdur rehman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdur rehman" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/abdur rehman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abdur rehman" height="30" width="40" /></a>
-<a href="https://fb.com/abdur rehman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdur rehman" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdur-rehman-0713b8259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdur rehman" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21677284/abdur-rehman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abdur rehman" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100011038110069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdur rehman" height="30" width="40" /></a>
 <a href="https://instagram.com/abdurrehman339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdurrehman339" height="30" width="40" /></a>
 <a href="https://medium.com/@abdurrehman.musharaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdurrehman.musharaf" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@itseasy339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@itseasy339" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@abdurrehman_mus1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@abdurrehman_mus1" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@itseasy339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@itseasy339" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/abdurrehman_mus1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@abdurrehman_mus1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
